@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: ed7c0378f6230b0449a67664b7c0cb32
+timeCreated: 1484164707
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cart
+    100002: Cart_main_J
+    100004: group1
+    100006: Horse
+    100008: Horse_mesh:Head
+    100010: Horse_mesh:LCalf
+    100012: Horse_mesh:LClavicle
+    100014: Horse_mesh:LFoot
+    100016: Horse_mesh:LForearm
+    100018: Horse_mesh:LHand
+    100020: Horse_mesh:LThigh
+    100022: Horse_mesh:LToe0
+    100024: Horse_mesh:LUpperArm
+    100026: Horse_mesh:Neck
+    100028: Horse_mesh:Pelvis
+    100030: Horse_mesh:RCalf
+    100032: Horse_mesh:RClavicle
+    100034: Horse_mesh:RFoot
+    100036: Horse_mesh:RForearm
+    100038: Horse_mesh:RHand
+    100040: Horse_mesh:Root
+    100042: Horse_mesh:RThigh
+    100044: Horse_mesh:RToe0
+    100046: Horse_mesh:RUpperArm
+    100048: Horse_mesh:Spine
+    100050: Horse_mesh:Spine1
+    100052: Horse_mesh:Spine2
+    100054: Horse_mesh:Tail
+    100056: Horse_mesh:Tail1
+    100058: Horse_mesh:Tail2
+    100060: Horse_mesh:Tail3
+    100062: joint1
+    100064: joint11
+    100066: joint12
+    100068: joint13
+    100070: joint13 1
+    100072: joint14
+    100074: joint2
+    100076: joint3
+    100078: joint4
+    100080: joint5
+    100082: joint7
+    100084: joint8
+    100086: joint9
+    100088: //RootNode
+    400000: Cart
+    400002: Cart_main_J
+    400004: group1
+    400006: Horse
+    400008: Horse_mesh:Head
+    400010: Horse_mesh:LCalf
+    400012: Horse_mesh:LClavicle
+    400014: Horse_mesh:LFoot
+    400016: Horse_mesh:LForearm
+    400018: Horse_mesh:LHand
+    400020: Horse_mesh:LThigh
+    400022: Horse_mesh:LToe0
+    400024: Horse_mesh:LUpperArm
+    400026: Horse_mesh:Neck
+    400028: Horse_mesh:Pelvis
+    400030: Horse_mesh:RCalf
+    400032: Horse_mesh:RClavicle
+    400034: Horse_mesh:RFoot
+    400036: Horse_mesh:RForearm
+    400038: Horse_mesh:RHand
+    400040: Horse_mesh:Root
+    400042: Horse_mesh:RThigh
+    400044: Horse_mesh:RToe0
+    400046: Horse_mesh:RUpperArm
+    400048: Horse_mesh:Spine
+    400050: Horse_mesh:Spine1
+    400052: Horse_mesh:Spine2
+    400054: Horse_mesh:Tail
+    400056: Horse_mesh:Tail1
+    400058: Horse_mesh:Tail2
+    400060: Horse_mesh:Tail3
+    400062: joint1
+    400064: joint11
+    400066: joint12
+    400068: joint13
+    400070: joint13 1
+    400072: joint14
+    400074: joint2
+    400076: joint3
+    400078: joint4
+    400080: joint5
+    400082: joint7
+    400084: joint8
+    400086: joint9
+    400088: //RootNode
+    4300000: Cart
+    4300002: Horse
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Cart
+    13700002: Horse
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

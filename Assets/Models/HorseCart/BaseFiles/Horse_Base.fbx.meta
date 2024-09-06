@@ -1,0 +1,132 @@
+fileFormatVersion: 2
+guid: 9f30292a0f38db24a8cd76d3a4ec0929
+timeCreated: 1484165617
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Horse
+    100002: //RootNode
+    100004: Horse_mesh:Head
+    100006: Horse_mesh:LCalf
+    100008: Horse_mesh:LClavicle
+    100010: Horse_mesh:LFoot
+    100012: Horse_mesh:LForearm
+    100014: Horse_mesh:LHand
+    100016: Horse_mesh:LThigh
+    100018: Horse_mesh:LToe0
+    100020: Horse_mesh:LUpperArm
+    100022: Horse_mesh:Neck
+    100024: Horse_mesh:Pelvis
+    100026: Horse_mesh:RCalf
+    100028: Horse_mesh:RClavicle
+    100030: Horse_mesh:RFoot
+    100032: Horse_mesh:RForearm
+    100034: Horse_mesh:RHand
+    100036: Horse_mesh:Root
+    100038: Horse_mesh:RThigh
+    100040: Horse_mesh:RToe0
+    100042: Horse_mesh:RUpperArm
+    100044: Horse_mesh:Spine
+    100046: Horse_mesh:Spine1
+    100048: Horse_mesh:Spine2
+    100050: Horse_mesh:Tail
+    100052: Horse_mesh:Tail1
+    100054: Horse_mesh:Tail2
+    100056: Horse_mesh:Tail3
+    400000: Horse
+    400002: //RootNode
+    400004: Horse_mesh:Head
+    400006: Horse_mesh:LCalf
+    400008: Horse_mesh:LClavicle
+    400010: Horse_mesh:LFoot
+    400012: Horse_mesh:LForearm
+    400014: Horse_mesh:LHand
+    400016: Horse_mesh:LThigh
+    400018: Horse_mesh:LToe0
+    400020: Horse_mesh:LUpperArm
+    400022: Horse_mesh:Neck
+    400024: Horse_mesh:Pelvis
+    400026: Horse_mesh:RCalf
+    400028: Horse_mesh:RClavicle
+    400030: Horse_mesh:RFoot
+    400032: Horse_mesh:RForearm
+    400034: Horse_mesh:RHand
+    400036: Horse_mesh:Root
+    400038: Horse_mesh:RThigh
+    400040: Horse_mesh:RToe0
+    400042: Horse_mesh:RUpperArm
+    400044: Horse_mesh:Spine
+    400046: Horse_mesh:Spine1
+    400048: Horse_mesh:Spine2
+    400050: Horse_mesh:Tail
+    400052: Horse_mesh:Tail1
+    400054: Horse_mesh:Tail2
+    400056: Horse_mesh:Tail3
+    4300000: Horse
+    9500000: //RootNode
+    13700000: Horse
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
